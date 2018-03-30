@@ -1,0 +1,2 @@
+base.dir=${project.basedir}
+chromeDriver=.//Drivers//chromedriver.exe
